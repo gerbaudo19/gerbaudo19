@@ -14,15 +14,16 @@ Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 - PHP (MySQL)
 - Hibernate
 - Postman
+- Python
 - Django
 
 ## Proyectos
 Estoy trabajando en los siguientes proyectos:
 
-- [AutoS.A](https://github.com/AgustinBartoloni/AutoS.A.git): Este proyecto se enfoca en [proporciona una breve descripción del proyecto aquí].
+- [AutoS.A](https://github.com/AgustinBartoloni/AutoS.A.git): Este proyecto se enfoca en [Desarrollo de un Sistema de Gestión para un Taller Mecánico].
 
 
 ## Contacto
-Puedes encontrarme en LinkedIn para conectarte y charlar sobre tecnología y desarrollo: [LinkedIn]([https://ar.linkedin.com/in/mateo-gerbaudo-645279211](https://www.linkedin.com/in/mateo-gerbaudo-645279211/?originalSubdomain=ar)).
+Puedes encontrarme en LinkedIn para conectarte y charlar sobre tecnología y desarrollo: [LinkedIn](https://www.linkedin.com/in/mateo-gerbaudo-645279211/?originalSubdomain=ar)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o sugerencia. 😊

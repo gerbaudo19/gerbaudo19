@@ -23,6 +23,6 @@ Estoy trabajando en los siguientes proyectos:
 
 
 ## Contacto
-Puedes encontrarme en LinkedIn para conectarte y charlar sobre tecnología y desarrollo: [LinkedIn](https://ar.linkedin.com/in/mateo-gerbaudo-645279211).
+Puedes encontrarme en LinkedIn para conectarte y charlar sobre tecnología y desarrollo: [LinkedIn]([https://ar.linkedin.com/in/mateo-gerbaudo-645279211](https://www.linkedin.com/in/mateo-gerbaudo-645279211/?originalSubdomain=ar)).
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o sugerencia. 😊

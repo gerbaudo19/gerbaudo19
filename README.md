@@ -10,8 +10,9 @@ Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 
 - Java (Spring Boot)
 - Maven
+- Docker
 - PostgreSQL
-- PHP (MySQL)
+- XAMPP
 - Hibernate
 - Postman
 - Python

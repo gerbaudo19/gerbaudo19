@@ -21,7 +21,7 @@ Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 ## Proyectos
 Estoy trabajando en los siguientes proyectos:
 
-- [AutoS.A](https://github.com/AgustinBartoloni/AutoS.A.git): Este proyecto se enfoca en [Desarrollo de un Sistema de Gestión para un Taller Mecánico].
+- [AutoS.A](https://github.com/AgustinBartoloni/Auto-S.A): Este proyecto se enfoca en [Desarrollo de un Sistema de Gestión para un Taller Mecánico].
 
 
 ## Contacto

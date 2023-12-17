@@ -17,6 +17,7 @@ Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 - Postman
 - Python
 - Django
+- Junit y mockito 
 
 ## Proyectos
 Estoy trabajando en los siguientes proyectos:

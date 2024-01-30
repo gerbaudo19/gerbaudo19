@@ -43,7 +43,22 @@
 <div>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
+
+## Tecnologías
+
+[![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Java_logo.svg/1200px-Java_logo.svg.png)](https://www.java.com/)
+[![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Spring_Boot_logo.svg/1200px-Spring_Boot_logo.svg.png)](https://spring.io/projects/spring-boot)
+[![Maven](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Maven_logo.svg/1200px-Maven_logo.svg.png)](https://maven.apache.org/)
+[![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Docker_logo.svg/1200px-Docker_logo.svg.png)](https://www.docker.com/)
+[![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/PostgreSQL_logo.svg/1200px-PostgreSQL_logo.svg.png)](https://www.postgresql.org/)
+[![XAMPP](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png)](https://www.apachefriends.org/es/index.html)
+[![Hibernate](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hibernate_logo.svg/1200px-Hibernate_logo.svg.png)](https://hibernate.org/)
+[![Postman](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Postman_logo.svg/1200px-Postman_logo.svg.png)](https://www.postman.com/)
+[![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo.svg/1200px-Python_logo.svg.png)](https://www.python.org/)
+[![Django](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Django_logo.svg/1200px-Django_logo.svg.png)](https://www.djangoproject.com/)
+[![Junit y mockito](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Junit_logo.svg/1200px-Junit_logo.svg.png)](https://junit.org/)
+[![Mockito](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mockito_logo.svg/1200px-Mockito_logo.svg.png)](https://site.mockito.org/)
+
 ## Proyectos
 Estoy trabajando en los siguientes proyectos:
 

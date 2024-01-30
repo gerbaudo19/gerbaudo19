@@ -22,22 +22,28 @@
 - 🌐 Apasionado por la tecnología y el desarrollo de software.
 - 💡 Siempre en busca de nuevas oportunidades de aprendizaje y desafíos en el mundo de la programación.
 
-## Tecnologías
-Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
-
-- ![Java](https://logowik.com/content/uploads/images/731_java.jpg) Java
-- ![Spring Boot](url_del_logo_de_Spring_Boot) Spring Boot
-- ![Maven](url_del_logo_de_Maven) Maven
-- ![Docker](url_del_logo_de_Docker) Docker
-- ![PostgreSQL](url_del_logo_de_PostgreSQL) PostgreSQL
-- ![XAMPP](url_del_logo_de_XAMPP) XAMPP
-- ![Hibernate](url_del_logo_de_Hibernate) Hibernate
-- ![Postman](url_del_logo_de_Postman) Postman
-- ![Python](url_del_logo_de_Python) Python
-- ![Django](url_del_logo_de_Django) Django
-- ![Junit](url_del_logo_de_Junit) Junit
-- ![Mockito](url_del_logo_de_Mockito) Mockito
-
+##  Skills ⚡
+  
+#### Front-end:
+<div>
+  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  
+#### Back-end:
+<div>
+  <img align="center" title="java" alt="java" height="30" width="40" src="https://logowik.com/content/uploads/images/731_java.jpg">
+  
+#### Database: 
+  <img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
+  <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  
+#### Tools:
+<div>
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
 ## Proyectos
 Estoy trabajando en los siguientes proyectos:
 

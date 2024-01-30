@@ -33,7 +33,7 @@
   
 #### Back-end:
 <div>
-  <img align="center" title="java" alt="java" height="30" width="40" src="https://logowik.com/content/uploads/images/731_java.jpg">
+  <img align="center" title="java" alt="java" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fjava_226777&psig=AOvVaw3gNjE19Uyf_AHgk1jsviOW&ust=1706680350120000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDtw_K1hIQDFQAAAAAdAAAAABAD">
   
 #### Database: 
   <img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">

@@ -25,7 +25,7 @@
 ## Tecnologías
 Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 
-- ![Java](<a href="https://www.flaticon.es/iconos-gratis/java" title="java iconos">Java iconos creados por Freepik - Flaticon</a>) Java
+- ![Java](https://www.flaticon.es/iconos-gratis/java) Java
 - ![Spring Boot](url_del_logo_de_Spring_Boot) Spring Boot
 - ![Maven](url_del_logo_de_Maven) Maven
 - ![Docker](url_del_logo_de_Docker) Docker

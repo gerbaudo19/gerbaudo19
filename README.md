@@ -1,14 +1,14 @@
 # ¡Hola, soy Mateo Gerbaudo! 👋
 
-## GitHub Analytics ⚙️
+## Estadísticas de GitHub ⚙️
 <div align="center">
   <a href="https://github.com/gerbaudo19">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gerbaudo19&show_icons=true&theme=react&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerbaudo19&theme=react&hide_border=true" />
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerbaudo19&theme=react&hide_border=true"/>
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerbaudo19&theme=react&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerbaudo19&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gerbaudo19&show_icons=true&theme=react&hide_border=true&locale=es" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerbaudo19&theme=react&hide_border=true&locale=es" />
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerbaudo19&theme=react&hide_border=true&locale=es"/>
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerbaudo19&theme=react&hide_border=true&locale=es"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerbaudo19&layout=compact&langs_count=7&theme=react&hide_border=true&locale=es"/>
     </p>
   </a>
   <p align="center">

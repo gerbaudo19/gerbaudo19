@@ -1,5 +1,23 @@
 # ¡Hola, soy Mateo Gerbaudo! 👋
 
+## GitHub Analytics ⚙️
+<div align="center">
+  <a href="https://github.com/gerbaudo02">
+    <p align="center">
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gerbaudo02&show_icons=true&theme=react&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerbaudo02&theme=react&hide_border=true" />
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerbaudo02&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerbaudo02&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerbaudo02&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    </p>
+  </a>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+    <br>
+  </p>
+</div>
+
+
 ## Sobre mí
 - 👨‍💻 Estudiante de Ingeniería en Sistemas de Información en la Facultad Regional de Villa María (FRVM).
 - 🌐 Apasionado por la tecnología y el desarrollo de software.

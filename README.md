@@ -25,7 +25,7 @@
 ## Tecnologías
 Algunas de las tecnologías con las que trabajo o que me interesan incluyen:
 
-- ![Java](![image](https://github.com/gerbaudo19/gerbaudo19/assets/67245961/5f748957-ab68-4fab-8837-d8fc036555f1)) Java
+- ![Java](<a href="https://www.flaticon.es/iconos-gratis/java" title="java iconos">Java iconos creados por Freepik - Flaticon</a>) Java
 - ![Spring Boot](url_del_logo_de_Spring_Boot) Spring Boot
 - ![Maven](url_del_logo_de_Maven) Maven
 - ![Docker](url_del_logo_de_Docker) Docker

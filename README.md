@@ -52,7 +52,7 @@ proyectos finalizados:
 
 - [AutoS.A](https://github.com/gerbaudo19/Auto-S.A-Testbed): Este proyecto se enfoca en [Desarrollo de un Sistema de Gestión para un Taller Mecánico].
 - [Magallanes Management System](https://github.com/gerbaudo19/magallanes.github.io): Este proyecto se enfoca en [Desarrollo de un Sistema de Gestión para una Tienda de Ropa].
-- [Sistema de Gestión de Cosecha]((https://github.com/gerbaudo19/sistema-gestor-cosecha-backend)): Este proyecto se enfoca en [Desarrollo Backend para el Control y Registro en Cargas de Comiones].
+- [Sistema de Gestión de Cosecha](https://github.com/gerbaudo19/sistema-gestor-cosecha-backend): Este proyecto se enfoca en [Desarrollo Backend para el Control y Registro en Cargas de Comiones].
 
 
 ## Contacto
